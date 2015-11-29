@@ -10,7 +10,7 @@ env:
 
 install:
 - pip install -q mock==0.8 Django==$DJANGO_VERSION
-- pip install . --use-mirrors
+# - pip install . --use-mirrors
 
 # command to run tests
 script: nosetests
