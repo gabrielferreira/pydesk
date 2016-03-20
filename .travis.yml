@@ -13,7 +13,7 @@ install:
   - "pip install -r requirements.txt"
   - "python manage.py migrate"
 # command to run tests
-script: python manage.py test && coverage xml && python-codacy-coverage -r coverage.xml
+script: coverage run manage.py test && coverage xml && python-codacy-coverage -r coverage.xml
 branches:
   only:
     - master
