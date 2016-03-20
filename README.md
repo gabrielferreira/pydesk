@@ -8,3 +8,4 @@ pydesk [![GitHub release](https://img.shields.io/github/release/qubyte/rubidium.
 [![Build Status](https://travis-ci.org/gabrielferreira/pydesk.svg?branch=master)](https://travis-ci.org/gabrielferreira/pydesk)
 [![Requirements Status](https://requires.io/github/gabrielferreira/pydesk/requirements.svg?branch=master)](https://requires.io/github/gabrielferreira/pydesk/requirements/?branch=master)
 [![Codacy Badge](https://api.codacy.com/project/badge/grade/3e65dd1082334219bc6e2c1a226b7cdf)](https://www.codacy.com/app/contato_8/pydesk)
+[![Codacy Badge](https://api.codacy.com/project/badge/coverage/3e65dd1082334219bc6e2c1a226b7cdf)](https://www.codacy.com/app/contato_8/pydesk)
