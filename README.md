@@ -1,5 +1,6 @@
 -------
-pydesk [![GitHub release](https://img.shields.io/github/release/qubyte/rubidium.svg)](https://github.com/gabrielferreira/pydesk/releases/latest)
+pydesk
+[![GitHub release](https://img.shields.io/github/release/qubyte/rubidium.svg)](https://github.com/gabrielferreira/pydesk/releases/latest)
 [![Join the chat at https://gitter.im/gabrielferreira/pydesk](https://badges.gitter.im/gabrielferreira/pydesk.svg)](https://gitter.im/gabrielferreira/pydesk?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 ============
 [![Twitter: @RackNerd](https://img.shields.io/badge/contact-@racknerd-blue.svg?style=flat)](https://twitter.com/RackNerd)
